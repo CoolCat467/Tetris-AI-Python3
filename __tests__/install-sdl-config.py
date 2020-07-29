@@ -11,7 +11,7 @@ __ver_patch__ = 0
 
 import os
 
-out = os.system('sudo apt-get install libsdl2-dev')
+out = os.system('sudo apt-get install libsdl2-2.0 libsdl2-dev')
 if out == 0:
     exit(0)
 else:
