@@ -1,7 +1,0 @@
-# Trigger the workflow on push or pull request
-on:
-  push
-  pull_request
-  create
-  check_run:
-    types: [rerequested, requested_action]
