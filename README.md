@@ -6,3 +6,11 @@ Re-programmed by CoolCat467 in Python3 and using Pygame. Based of Code-Bullet's 
 
 # Version Information:
 Version 0.0.0: Inititial release
+
+DISCLAIMER:
+Tetris ® & © 1985~2020 Tetris Holding.
+Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding.
+The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company.
+Tetris Game Design by Alexey Pajitnov.
+Tetris Logo Design by Roger Dean.
+All other trademarks are the property of their respective owners.
